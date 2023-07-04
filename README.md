@@ -13,7 +13,7 @@ This project implements a comprehensive supply chain logistics optimization syst
 - **Data Validation**: Comprehensive input validation and error handling
 - **Export Functionality**: Download optimization results as CSV files
 
-
+## 🎯 Objectives
 
 - Minimize transportation and distribution costs
 - Meet all destination demand requirements
