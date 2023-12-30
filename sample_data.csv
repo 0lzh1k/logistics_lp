@@ -1,0 +1,13 @@
+Supplier,Destination,Cost_per_Unit,Supplier_Capacity,Destination_Demand
+Supplier_1,Destination_1,5.84,179,86
+Supplier_1,Destination_2,7.77,179,118
+Supplier_1,Destination_3,9.41,179,95
+Supplier_1,Destination_4,11.32,179,70
+Supplier_2,Destination_1,7.13,163,86
+Supplier_2,Destination_2,5.89,163,118
+Supplier_2,Destination_3,8.04,163,95
+Supplier_2,Destination_4,9.88,163,70
+Supplier_3,Destination_1,8.96,181,86
+Supplier_3,Destination_2,7.45,181,118
+Supplier_3,Destination_3,5.51,181,95
+Supplier_3,Destination_4,7.88,181,70
