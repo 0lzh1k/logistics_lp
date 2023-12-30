@@ -8,7 +8,12 @@ from data_processor import DataProcessor
 class TestSupplyChainOptimizer(unittest.TestCase):
     """Unit tests for SupplyChainOptimizer class"""
 
-  
+    def setUp(self):
+        """Set up test fixtures"""
+        self.optimizer = SupplyChainOptimizer()
+        self.sample_data = DataProcessor.generate_sample_data(
+            num_suppliers=2, num_destinations=2, seed=42
+        )
 
     def test_capacity_constraints(self):
         """Test that capacity constraints are respected"""
